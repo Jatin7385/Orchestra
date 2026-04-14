@@ -124,12 +124,4 @@ Sample implementations live under `...apiService.impl` and `...validation.impl` 
 |----------|-----------|
 | **[BLOG_ARTICLE.md](./BLOG_ARTICLE.md)** | Full narrative: problem, BFF architecture, patterns (SRP, DIP, strategy, adapter, registry), frontend duplication, configuration-as-code, trade-offs |
 
----
-
-## License
-
-Apache License, Version 2.0 — see repository `LICENSE` and `NOTICE` if present.
-
----
-
 *Orchestra — configuration-driven API orchestration for AEM.*
