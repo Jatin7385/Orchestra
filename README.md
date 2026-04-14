@@ -7,7 +7,7 @@
 **Disclaimer:** Orchestra is **not** an Adobe official product, release, or endorsed offering. It is independent open-source solution that interoperates with Adobe Experience Manager and the broader AEM ecosystem. Adobe and Adobe Experience Manager are trademarks of Adobe Inc.
 
 
-The full architecture story, design decisions, and rationale live in **[BLOG_ARTICLE.md](./BLOG_ARTICLE.md)**. This README is the **project overview** and **how to run and extend** the codebase.
+The full architecture story, design decisions, and rationale live in **[BLOG](https://medium.com/@jatin.dhall7385/orchestra-a-configuration-driven-api-orchestration-framework-5db72b468977)**. This README is the **project overview** and **how to run and extend** the codebase.
 
 ---
 
@@ -122,6 +122,6 @@ Sample implementations live under `...apiService.impl` and `...validation.impl` 
 
 | Document | Contents |
 |----------|-----------|
-| **[BLOG_ARTICLE.md](./BLOG_ARTICLE.md)** | Full narrative: problem, BFF architecture, patterns (SRP, DIP, strategy, adapter, registry), frontend duplication, configuration-as-code, trade-offs |
+| **[BLOG](https://medium.com/@jatin.dhall7385/orchestra-a-configuration-driven-api-orchestration-framework-5db72b468977)** | Full narrative: problem, BFF architecture, patterns (SRP, DIP, strategy, adapter, registry), frontend duplication, configuration-as-code, trade-offs |
 
 *Orchestra — configuration-driven API orchestration for AEM.*
