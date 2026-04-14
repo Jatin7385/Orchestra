@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/orchestration/clientlibs"/>
+    <filter root="/apps/orchestration/components"/>
+    <filter root="/apps/orchestration/i18n"/>
+</workspaceFilter>

@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/orchestration",
+        "create path (nt:unstructured) /content/dam/orchestration/jcr:content",
+        "set properties on /content/dam/orchestration/jcr:content\n  set cq:conf{String} to /conf/orchestration\n  set jcr:title{String} to \"AEM API Orchestration Framework\"\nend"
+    ]
+}
